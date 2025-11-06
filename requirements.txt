@@ -1,0 +1,4 @@
+numpy
+matplotlib
+tqdm
+networkx # Solo si usa el código de grafos
